@@ -1,0 +1,3 @@
+[submodule "Plat4m_Types"]
+	path = Plat4m_Types
+	url = https://github.com/bminerd/Plat4m_Types.git
